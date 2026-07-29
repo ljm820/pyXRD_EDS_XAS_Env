@@ -1,0 +1,8 @@
+# 文本文件使用 native line endings
+*.md text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+
+# 二进制文件
+*.docx binary

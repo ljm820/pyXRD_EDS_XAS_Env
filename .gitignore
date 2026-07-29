@@ -1,0 +1,30 @@
+# 压缩包 (通过 GitHub Releases 发布)
+*.tar.gz
+*.zip
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Conda
+envs/
+pkgs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
